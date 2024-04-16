@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+Sitemap: https://utorrent-client.github.io/sitemap.xml
+
+Host: https://utorrent-client.github.io
